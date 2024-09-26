@@ -1,4 +1,4 @@
-# IMDB_Movie_Analysis_Using_Excel
+# IMDb Movie Analysis Excel
 IMDb Movie Analysis: Explore movie dataset, analyze using Excel to find success factors - director, genre, budget, ratings, and more.
 ## Problem Statement:
 The dataset provided is related to IMDB Movies. A potential problem to investigate could be: "What factors influence the success of a movie on IMDB?" Here, success can be defined by high IMDB ratings. The impact of this problem is significant for movie producers, directors, and investors who want to understand what makes a movie successful to make informed decisions in their future projects.
